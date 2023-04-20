@@ -1,6 +1,8 @@
+![logo](https://github.com/nayebuljannath780/nayebuljannath780/blob/main/MyBanner.PNG)
 <h1 align="center">Hey! I'm Nayebul Jannath Chowdhury👋</h1>
-<h3 align="center">CSE graduate and a passionate MERN stack enthusiast</h3>
+<h3 align="center">CSE graduate and a passionate MERN stack enthusiast</h3> <br/>
 
+Hello! My name is Nyebul Jannath Chowdhury. I'm a CSE graduate student with expertise in MERN stack web development.  I'm passionate about creating top-notch web applications that offer simple user interfaces. My skills include proficiency in JavaScript, React, Node.js, MongoDB, Express.js, and I am constantly learning new technologies to stay up-to-date with the latest trends in web development. In addition to contributing to the open-source community, I'm eager to work on interesting projects with other developers. Feel free to connect with me, and let's work together to create something incredible!
 
 <img align="right" alt="pic" width="400" src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif">
 
@@ -14,6 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/nayebul-jannath-chowdhury-00354b217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayebul-jannath-chowdhury-00354b217" height="30" width="40" /></a>
 <a href="https://fb.com/njshowrav.chy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="njshowrav.chy" height="30" width="40" /></a>
+<a href="https://github.com/nayebuljannath780" target="blank"><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' alt="nayebul-jannath-chowdhury-00354b217" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
