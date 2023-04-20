@@ -1,6 +1,6 @@
 ![logo](https://github.com/nayebuljannath780/nayebuljannath780/blob/main/MyBanner.PNG)
 <h1 align="center">Hey! I'm Nayebul Jannath Chowdhury👋</h1>
-<h3 align="center">CSE graduate and a passionate MERN stack enthusiast</h3> <br/>
+<h3 align="center">CSE graduate and a passionate MERN stack developer</h3> <br/>
 
 Hello! My name is Nyebul Jannath Chowdhury. I'm a CSE graduate student with expertise in MERN stack web development.  I'm passionate about creating top-notch web applications that offer simple user interfaces. My skills include proficiency in JavaScript, React, Node.js, MongoDB, Express.js, and I am constantly learning new technologies to stay up-to-date with the latest trends in web development. In addition to contributing to the open-source community, I'm eager to work on interesting projects with other developers. Feel free to connect with me, and let's work together to create something incredible!
 
