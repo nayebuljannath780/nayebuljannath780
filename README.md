@@ -28,5 +28,5 @@ Hello! My name is Nyebul Jannath Chowdhury. I'm a CSE graduate student with expe
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayebuljannath780)](https://github.com/nayebuljannath780/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayebuljannath780&show_icons=true&theme=radical)>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayebuljannath780&show_icons=true&theme=radical)
 
